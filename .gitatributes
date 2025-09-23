@@ -1,0 +1,1 @@
+secret.json filter=secretsgit config filter.secrets.clean  "sed 's/\"password\": \".*\"/\"password\": \"***REDACTED***\"/'"
