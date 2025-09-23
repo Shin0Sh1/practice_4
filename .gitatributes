@@ -1,1 +1,1 @@
-secret.json filter=secretsgit config filter.secrets.clean  "sed 's/\"password\": \".*\"/\"password\": \"***REDACTED***\"/'"
+secret.json filter=secrets git config filter.secrets.clean  "sed 's/\"password\": \".*\"/\"password\": \"***REDACTED***\"/'"
