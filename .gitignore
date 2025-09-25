@@ -7,4 +7,4 @@ build/
 *.tmp
 *.bak
 *.txt
-!README.txt
+!README.txtsecret.json.real
